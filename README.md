@@ -108,16 +108,14 @@ WeatherApp/
 ## 📸 Screenshots
 
 ### **Sunny Weather**
-
-![Sunny](https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format\&fit=crop\&w=800\&q=80)
+![Sunny](https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&q=80)
 
 ### **Rainy Weather**
-
-![Rainy]([https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format\&fit=crop\&w=800\&q=80](https://images.unsplash.com/photo-1508669599492-fd102379df98?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![Rainy](https://images.unsplash.com/photo-1508669599492-fd102379df98?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ### **Cold Weather**
+![Cold](https://images.unsplash.com/photo-1445543949571-ffc3e0e2f55e?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-![Cold]([https://images.unsplash.com/photo-1608889175138-c38f4a8e4dff?auto=format\&fit=crop\&w=800\&q=80](https://images.unsplash.com/photo-1445543949571-ffc3e0e2f55e?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
 
 ---
 
