@@ -1,0 +1,23 @@
+.InfoBox {
+  display: flex;
+  flex-direction: column; /* Stacks children vertically */
+  justify-content: center; /* Centers content vertically */
+  align-items: center;    /* Centers content horizontally */
+  min-height: 70vh;      /* Ensures the container takes up the full viewport height */
+  gap: 20px;              /* Adds some space between the heading and the card */
+  text-align: center;     /* Ensures the heading text is centered */
+}
+
+.InfoBox h1 {
+  margin-bottom: 0; /* Remove default margin to control spacing with gap */
+}
+
+/* You may want to add a max-width to the card itself for better responsiveness */
+.InfoBox .MuiCard-root {
+  max-width: 400px; /* Or any other desired width */
+}
+.InfoBox {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
